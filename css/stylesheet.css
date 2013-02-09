@@ -11,10 +11,14 @@
 	margin:15px auto;
 	float:none;
 }
-.footer, .margins{
+.margins{
+	height:80px;
+}
+.footer{
 	height:60px;
 }
 .footer{
+	border-top:1px solid #cccccc;
 	background-color:#f5f5f5;
 }
 .footer-inner{
